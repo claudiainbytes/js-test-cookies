@@ -14,7 +14,13 @@ In terminal run the example using the command:
 
 http-server -p 8081
 
+To clean cache run in terminal:
+
+http-server -c-1- -p 8081
+
 You can see on:
 
 http://localhost:8081
+
+
 
