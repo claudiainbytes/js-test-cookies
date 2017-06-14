@@ -16,7 +16,7 @@ http-server -p 8081
 
 To clean cache run in terminal:
 
-http-server -c-1- -p 8081
+http-server -c-1 -p 8081
 
 You can see on:
 
